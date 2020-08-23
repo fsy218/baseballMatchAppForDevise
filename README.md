@@ -1,6 +1,6 @@
 # baseball_match_app
 
-A new Flutter project.
+Flutter version : 1.20.1 
 
 ## Getting Started
 
