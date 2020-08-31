@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244797735905",
+    "firebase_url": "https://baseballmatchappfordevise.firebaseio.com",
+    "project_id": "baseballmatchappfordevise",
+    "storage_bucket": "baseballmatchappfordevise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244797735905:android:95ef5e45d0a37a7b3e88a0",
+        "android_client_info": {
+          "package_name": "com.example.baseball_match_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244797735905-uhe4unk528vnvlr2itb0mc1fep55ior8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrHEbIRfuWvNQ3sfWmPS0RD6yb6o0kbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244797735905-uhe4unk528vnvlr2itb0mc1fep55ior8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244797735905-230ifs3kek1qnapv2qvaohcvbuq3u4ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.baseballMatchApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
